@@ -56,7 +56,7 @@ ul{
     align-items: center;
 }
 .rdetial img{
-    width: 80%; 
+    width: 40%; 
 }
 img{
     /* float: left; */
@@ -113,7 +113,7 @@ label{
     margin:0 70px 50px;
     padding: 40px;
     /* float: right;*/
-    margin-top: -24%;
+    margin-top: -34%;
     margin-left: 63%;
     width: 34%;
     
